@@ -1,9 +1,9 @@
 # JavaScript Advanced Functions: First-Class Functions Lab
 
-## Learning Goals
+## Learning Goals 
 
 - Assign functions to a variable.
-- Store functions in a data structure.
+- Store functions in a data structure. 
 - Write functions that return other functions.
 - Pass a function to another function.
 - Call a function returned by another function.
